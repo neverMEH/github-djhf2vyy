@@ -1,2 +1,3 @@
-# github-djhf2vyy
-Repository created by Bolt to GitHub extension
+# Spoiled-Vine
+
+[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/neverMEH/Spoiled-Vine)
